@@ -1,0 +1,74 @@
+
+
+.ajclientcontent1{
+ 
+    width: 450px;
+    min-height: 100%;
+    padding: 25px 30px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 100px;
+
+}
+form.commanderform{
+    margin-top: 200px;
+    width: 50%;
+  
+}
+
+.btt{
+   
+    margin-right: 30px;
+
+
+}
+.contaddpaie  h3 { margin-left: 20%;
+ margin-bottom: 20px;}
+.contaddpaie{ width: 60%;
+    background-color: white;
+    margin-left: 20%;
+  padding-top: 50px;
+margin-top: 80px;
+border:1px solid #3c8fdc;
+border-bottom-left-radius: 40px;
+border-top-right-radius:40px;
+box-shadow: 0 20px 50px #3c8fdc;
+padding-bottom: 30px;
+
+
+
+}
+
+
+.contaddpaie:before{
+content: '';
+position:absolute;
+top:37%;
+
+left:-100%;
+width:25%;
+height:3px;
+background: #3c8fdcb7;
+transition:0.5s;
+pointer-events: none;
+}
+
+.contaddpaie:hover:before{
+
+left:37%;
+
+}
+.iputarticle{  padding-left: 130px;
+  padding-right: 130px;}
+
+.formaddarticle{
+  
+    width: 100%;
+}
+.butartt{display: grid;
+    margin-left: 0px;
+    grid-template-columns:auto auto;
+}
+

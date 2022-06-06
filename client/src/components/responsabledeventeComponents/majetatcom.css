@@ -1,0 +1,134 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Barlow&family=PT+Sans&display=swap');
+
+
+    :root{
+        --dark: grey;
+        --light: #adb5bd;
+        --border: #dee2e6;
+        --border-btn: #edf2f4;
+    }
+
+
+a {
+    text-decoration: none;
+    
+}
+
+.containerrvente{
+    max-width: 1024px;
+    margin: auto;
+}
+
+.nav-brand{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.border-shadowvalide{
+    border: 1px solid green;
+    
+}
+.border-shadowdetails{
+    border: 1px solid blue;
+    
+}
+.border-shadowrefuse{
+    border: 1px solid red;
+   
+}
+
+.text-dark{
+    color: var(--dark);
+}
+
+.inline{
+    display: inline-block;
+}
+
+.text-light{
+    color: var(--light);
+}
+
+
+
+
+
+#site-mainn.container .box-nav > a{
+    font-size: 1em;
+    padding: .5em 1em;
+}
+
+#site-mainn .container form{
+    margin: 2em 0;
+}
+
+
+.tablemajetatvente{width:900px
+;margin-left:50px;}
+
+
+
+
+
+
+.btndetails{
+    padding: 0.3rem;
+    display: block;
+    text-decoration: none;
+    color: black;
+   
+    text-align: center;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    transition: 0.3s;
+    
+  }
+  
+  .btnvalider{
+    padding: 0.3rem;
+    display: block;
+    text-decoration: none;
+    
+    color: black;
+    text-align: center;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    transition: 0.3s;
+  
+  }
+  .btnvalider:hover{
+    color: green;
+  }
+  .btndelete{
+    padding: 0.3rem;
+    display: block;
+    text-decoration: none;
+ 
+    color: black;
+    text-align: center;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    transition: 0.3s;
+  
+  }
+  .btndelete:hover { color: red;}
+
+.titrearticle{
+    color: blue;
+    text-align: center;
+    
+    }

@@ -1,0 +1,33 @@
+.acceuil{margin-left: 500px;
+}
+.content{margin-left: 150px;
+    margin-right: 150px;
+}
+.numbers {
+    font-size: 18px;
+    margin-left: -40px;
+}
+.bi-person{color:orange;
+   
+  font-size: 35px;
+     background:rgb(0, 110, 255);
+     margin-right: 10px;
+     border-radius: 7px;
+     padding-left: 5px;
+     padding-right: 5px;   }
+.card-category{color: grey;}
+.gridadminacceuil{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    
+}
+.cardcmdencours{height: 40px;}
+.gridntwo{
+    display: grid;
+    grid-template-columns: 770px 300px   ;
+    
+}
+.livadmin{height: 40px;
+    width:300px;
+margin-left:770px;
+margin-top:-180px ;}

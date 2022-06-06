@@ -1,0 +1,63 @@
+.containermajacquis{ display: grid;
+    grid-template-columns: auto  auto auto;
+    
+   }
+   .acqtitle,.acqinput{
+    display: inline;
+  
+
+}
+.acquiform{
+    text-align: end;
+}
+.acquiform{
+    margin-top: 30px;
+   
+       line-height: 50px;    
+}
+.block{display: block;}
+.tableacquis{ border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+    width: 100%;
+     margin-top: 30px;
+}
+.tableacquis td , .tableacquis th{border: 1px solid rgb(173, 161, 161);}
+.tableacquis td{height: 40px; }
+.tableacquis th{color: grey; }
+
+
+
+
+.marignaqcuisformdepot{
+background-color: white;
+margin-left: 200px;
+padding-left: 30px;
+padding-right: 30px;
+border:1px solid #3c8fdc;
+border-bottom-left-radius: 40px;
+border-top-right-radius:40px;
+box-shadow: 0 20px 50px #3c8fdc;
+padding-top: 30px;
+margin-bottom: 30px;
+width:70%
+  
+}
+.acquistitle{ color: black;
+    text-align: center;
+    margin-bottom: 60px;}
+    
+    .acquiformdetail{
+       
+        line-height: 30px;
+         display: flex;margin-left: 180px;
+     }
+     .acquiformdetail1{
+     
+         display: flex;
+         flex-direction: column;
+         margin-right: 200px;
+         line-height: 30px;
+      
+      
+        
+     }
+     

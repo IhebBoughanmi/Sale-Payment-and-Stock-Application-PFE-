@@ -1,0 +1,24 @@
+.cardone{width:500px;
+  
+    margin-left: 130px;
+   height: 10px;
+}
+.thridbar{
+   width:800px;
+   margin-left: 130px;
+
+  
+}
+.minigraph{margin-top: -560px;
+ margin-left: 1000px;
+    width:290px;
+    
+    
+
+}
+.inlinechart{
+   display: inline;
+}
+.pie{  margin-left: 500px;
+
+margin-top: -220px;}

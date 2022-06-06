@@ -1,0 +1,22 @@
+.cadre-table-scrollregler {
+    display: inline-block;
+    height: 30em;
+    overflow-y: scroll;
+   
+  }
+  .table thead th {
+    position: sticky;
+    top: 0;
+    background-color: white;
+  }
+  .table tfoot td {
+    position: sticky;
+    bottom: 0;
+  }
+  .gridreglement{display: grid;
+    grid-template-columns: 150px  500px;
+ 
+    }
+    .tablesizeregler , .historiquereglement{width:200px;
+      margin-left: 180px;
+    }

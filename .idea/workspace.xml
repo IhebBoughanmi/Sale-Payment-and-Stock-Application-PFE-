@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="782da8da-75ff-4e0f-8ff5-4693bbeb809d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/components/adminComponents/components/componentsGF/regler.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/adminComponents/components/componentsArticle/addarticle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/adminComponents/components/componentsArticle/addarticle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/adminComponents/components/componentsGF/reglerfacture.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/adminComponents/components/componentsGF/reglerfacture.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/adminComponents/componentsGC/pagesGC/comm.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/adminComponents/componentsGC/pagesGC/comm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/adminComponents/componentsGC/pagesGC/commander.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/adminComponents/componentsGC/pagesGC/commander.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/adminComponents/componentsGC/pagesGC/majcom.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/adminComponents/componentsGC/pagesGC/majcom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/adminComponents/componentsGC/pagesGC/majetatcom.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/adminComponents/componentsGC/pagesGC/majetatcom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/clientcomponents/commander.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/clientcomponents/commander.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/clientcomponents/mesfactures.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/clientcomponents/mesfactures.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Commande.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Commande.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Facturation.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Facturation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/commande.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/commande.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/facturation.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/facturation.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27t2VZCR1gjk7L2GndQ0tvFuePW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="782da8da-75ff-4e0f-8ff5-4693bbeb809d" name="Changes" comment="" />
+      <created>1650125092392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650125092392</updated>
+    </task>
+    <servers />
+  </component>
+</project>

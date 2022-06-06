@@ -1,0 +1,23 @@
+.cadre-table-scrollregler {
+    display: inline-block;
+    height: 30em;
+    overflow-y: scroll;
+   
+  }
+  .table thead th {
+    position: sticky;
+    top: 0;
+    background-color: white;
+  }
+  .table tfoot td {
+    position: sticky;
+    bottom: 0;
+  }
+  .gridreglementt{display: grid;
+    grid-template-columns: 150px  400px;
+    justify-content: space-around;
+ 
+    }
+    .tbaleregler{width:1000px}
+    .btnregle{margin-left: 250px;}
+    .titleregle{margin-left: 220px;}

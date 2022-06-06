@@ -1,0 +1,88 @@
+.ajclientcontent1{
+ 
+    width: 450px;
+    min-height: 100%;
+    padding: 25px 30px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 100px;
+}
+form.commanderform{
+    margin: 0 auto;
+    width: 50%;
+    
+}
+.contaddart{
+    margin: 0 auto;
+    width: 50%;
+}
+.butart{
+    margin: 0 auto;
+    width: 50%;
+    justify-content: space-between;
+}
+.contaddart h3 { margin-left:155px;}
+
+
+.ajclientcontent1{
+ 
+    width: 450px;
+    min-height: 100%;
+    padding: 25px 30px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 100px;
+
+}
+form.commanderform{
+    margin-top: 200px;
+    width: 50%;
+  
+}
+
+.butstock{display: inline;
+justify-content: space-between;
+
+
+
+margin-left: 20px;
+}
+.bodysstock .contaddart h3 { margin-left: 40px;
+ margin-bottom: 20px;}
+.bodysstock{ width: 50%;
+    background-color: white;
+    margin-left: 25%;
+    
+  padding-top: 50px;
+
+border:1px solid #3c8fdc;
+border-bottom-left-radius: 40px;
+border-top-right-radius:40px;
+box-shadow: 0 20px 50px #3c8fdc;
+padding-bottom: 30px;
+
+
+
+}
+
+
+.bodys:hover:before{
+
+left:37%;
+
+}
+.iputarticle{  padding-left: 130px;
+  padding-right: 130px;}
+
+.formAjoutermodepaieent{
+  
+    width: 100%;
+}
+
+
+.livrerdepot{width:80%;
+margin-left: 200px;}

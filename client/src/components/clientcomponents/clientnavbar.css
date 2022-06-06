@@ -1,0 +1,65 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 100px;
+    
+  }
+
+.all{background-color: white;}
+  .grid-container > div {
+  
+    text-align: center;
+    padding-left: 50px ;
+    font-size: 30px;
+  }
+  .topacceuil{background: no-repeat center url(https://www.espacemanager.com/sites/default/files/alcools.png) ;
+    background-size: 100% 600px;
+    height: 600px;
+   
+    
+
+  }
+.acceuiltitle ,.articletitle{
+    text-align: center;
+}
+.acceuiltitle { 
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: white;
+}
+ .espace{
+     height: 100px;
+ }
+ .commandebutton{ margin: 0;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    width: 200px;
+    
+   
+    }
+    .footer {
+       
+        left: 0;
+     position: relative;
+        width: 100%;
+        background-color: #1976d2;
+        height: 50px;
+       color:white;
+        display: grid;
+        grid-template-columns: auto auto  auto   ; 
+        align-content:flex-end;
+        justify-content: space-around;
+       
+       
+     }
+     .commandertext{color: white;}
+.alertwidth{width:400px}
+.bodysuivre{background-color: white;}

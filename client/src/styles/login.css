@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+.login-section{
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner{
+    width: 25%;
+    background-color: white;
+    border: 1px solid #3c8fdc;
+    min-height: 540px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    box-shadow: -5px 5px 41px -5px #3c8fdc;
+    
+}
+
+
+.banner img{
+    width: 90%;
+}
+
+.login-content{
+    width: 33%;
+    min-height: 540px;
+    background-color:#3c8fdc;
+    box-shadow: 5px 5px 41px -5px #3c8fdc;
+    padding: 100px 45px;
+}
+.textfield{
+    border: 1px solid white !important;
+    border-radius: 5px;
+    color: white !important;
+    margin:9px 0 !important;
+}
+.textfield:focus, .textfield:active,.textfield:focus-within{
+    border: 1px solid transparent !important;
+}
+.textfield label{
+    color: #ffffff70 !important;
+    top: -8px;
+}
+.textfield:focus label, .textfield:active label,.textfield:focus-within label{
+    color:#3c8fdc !important;
+    top: 0px !important;
+    left: 6px !important;
+}
+
+.textfield input,.textfield fieldset{
+    color: white !important;
+    padding: 7.5px 14px;
+}
+.login-section .login-content h3{
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+    margin: 15px 0;
+    display: flex;
+    justify-content: center;
+}
+.clearfix{
+    width: 220px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px auto;
+}
